@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(58, 235, 238);
+    color: rgb(118, 99, 225);
+    font-family: "Cause", cursive;
+}
+
+h1{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: "Domine", serif;
+    color: white;
+    padding: 20px;
+}
+
+h3{
+    padding: 10px;
+}
+
+input{
+    padding: 2px;
+    width: 200px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background: none;
+    border: none;
+    border-bottom: 2px black solid;
+}
+
+button{
+    padding: 2px;
+    width: 50px;
+    background-color: cornflowerblue;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.one{
+    margin: 10px;
+}
+
+table{
+    margin: 10px;
+}
+
+.two{
+    width: fit-content;
+    background-color: cornflowerblue;
+    opacity: 0.8;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+td{
+    width:250px;
+    font-size: larger;
+    color: darkblue;
+    font-weight:500;
+}
+
+.btn{
+    width: 50px;
+    padding: 5px;
+}
